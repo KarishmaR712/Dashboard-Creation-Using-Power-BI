@@ -20,3 +20,7 @@ Total Metrics: Sum of Amount: ₹438K Sum of Quantity: 5615 Sum of Profit: ₹37
 
 Visuals Used in the Dashboard
 
+KPI Cards: Display total sales, quantity, profit, and average order value. Bar Charts: Sum of Amount by State Profit by Month Profit by Sub-Category Pie Charts: Sum of Quantity by Category Sum of Quantity by Payment Mode Clustered Column Chart: Monthly profit trends to visualize seasonal fluctuations.
+
+Interactive Features
+
