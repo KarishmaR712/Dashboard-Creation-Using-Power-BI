@@ -24,3 +24,34 @@ KPI Cards: Display total sales, quantity, profit, and average order value. Bar C
 
 Interactive Features
 
+Time Period Filters: Quarterly filters (Q1, Q2, Q3, Q4) to analyze performance for specific time periods. "All" option for an overall view.
+
+Dynamic Region Analysis:
+
+Drill-down feature to explore performance at a granular level across states and categories.
+
+Category and Payment Mode Filters:
+
+Select specific categories or payment modes to study their impact on sales and profit.
+
+Why This Dashboard Matters
+
+Actionable Insights:
+
+Provides data-driven insights to optimize inventory, pricing, and marketing strategies.
+
+Enhanced Decision-Making:
+
+Helps Madhav Store identify trends and focus areas, such as top-performing states or products.
+
+Customer-Centric Analysis:
+
+Understands customer preferences and payment behaviors to tailor experiences.
+
+Improved Profitability:
+
+Identifies key profit-driving products and regions for better resource allocation.
+
+Scalability:
+
+Can be extended to include more metrics or regions as Madhav Store expands its operations.
