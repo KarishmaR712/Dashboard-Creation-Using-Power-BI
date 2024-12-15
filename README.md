@@ -36,22 +36,3 @@ Select specific categories or payment modes to study their impact on sales and p
 
 Why This Dashboard Matters
 
-Actionable Insights:
-
-Provides data-driven insights to optimize inventory, pricing, and marketing strategies.
-
-Enhanced Decision-Making:
-
-Helps Madhav Store identify trends and focus areas, such as top-performing states or products.
-
-Customer-Centric Analysis:
-
-Understands customer preferences and payment behaviors to tailor experiences.
-
-Improved Profitability:
-
-Identifies key profit-driving products and regions for better resource allocation.
-
-Scalability:
-
-Can be extended to include more metrics or regions as Madhav Store expands its operations.
